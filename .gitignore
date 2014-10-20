@@ -1,0 +1,8 @@
+nauty22*
+*.gch
+*.o
+a.out
+mylog*
+\#0_K*to*.txt
+*.bin
+*.swp
