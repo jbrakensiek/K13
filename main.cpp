@@ -2,7 +2,7 @@
 
 #pragma hdrstop
 
-#define N 4 
+#define N 9
 //#define SKIP_SAVING
 
 //#define KNOWN_CRNUM 60

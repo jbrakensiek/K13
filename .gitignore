@@ -3,6 +3,6 @@ nauty22*
 *.o
 a.out
 mylog*
-\#0_K*to*.txt
+\#*K*.txt
 *.bin
 *.swp
