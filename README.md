@@ -6,4 +6,4 @@ http://cs.anu.edu.au/~bdm/nauty/
 
 K11 code (#0_K4.txt dgraph.h main.cpp readme.pdf) (c) Sengjun Pan and R. Bruce Richter
 
-http://cs.anu.edu.au/~bdm/nauty/
+http://www.math.uwaterloo.ca/~brichter/pubs/K11code/
